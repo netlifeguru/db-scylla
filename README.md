@@ -94,7 +94,7 @@ The active ScyllaDB connection uses the Scylla query variant.
 
 Full package documentation, guides, and examples are available at:
 
-[https://netlife.guru/docs/go/scylla](https://netlife.guru/docs/go/scylla)
+[https://netlife.guru/docs/go/db/getting-started/installation#scylla](https://netlife.guru/docs/go/db/getting-started/installation#scylla)
 
 Shared database layer documentation:
 
